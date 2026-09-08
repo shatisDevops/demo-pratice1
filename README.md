@@ -1,5 +1,5 @@
 # demo-pratice1
 first step to git  and github 
 <br>
-<H3>developer- satish paudel </H3>
+<H3>Developer- Satish Paudel </H3>
 
